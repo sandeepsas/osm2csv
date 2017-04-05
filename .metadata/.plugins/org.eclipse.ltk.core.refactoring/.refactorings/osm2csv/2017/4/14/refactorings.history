@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;osm2csv/osmdata/ManhattanFilteredRoads.osm&apos; to &apos;manhattanblocks.osm&apos;" description="Rename resource &apos;ManhattanFilteredRoads.osm&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="osmdata/ManhattanFilteredRoads.osm" name="manhattanblocks.osm" stamp="1491403322685" updateReferences="true"/>
+</session>
